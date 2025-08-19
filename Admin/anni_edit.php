@@ -30,7 +30,7 @@
 
 <div class="codes">
 <div class="container"> 
-<h3 class='w3ls-hdg' align="center">EDIT WEDDING</h3>
+<h3 class='w3ls-hdg' align="center">EDIT ANNIVERSARY</h3>
 <div class="grid_3 grid_4">
 				<div class="tab-content">
 					<div class="tab-pane active" id="horizontal-form">
