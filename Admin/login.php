@@ -117,8 +117,7 @@ Author: EVENTEASE
 			
 			<div style="background: #d1ecf1; border: 1px solid #bee5eb; border-radius: 5px; padding: 15px; margin: 20px 0; text-align: center;">
 				<h4>Login Credentials:</h4>
-				<p><strong>Username:</strong> Mashuka | <strong>Password:</strong> 12345678</p>
-				g			</div>
+				<p><strong>Username:</strong> Mashuka | <strong>Password:</strong> 12345678</p>	</div>
 			
 			<div class="footer-agileinfo">
 			<div class="col-md-8 contact-grids">
